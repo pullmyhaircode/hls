@@ -1,4 +1,6 @@
 /*******************************************************************************
+modifying my testbench as well.
+
 Vendor: Xilinx 
 Associated Filename: window_fn_test.cpp
 Purpose: Vivado HLS tutorial example 

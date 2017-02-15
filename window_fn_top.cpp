@@ -1,4 +1,6 @@
 /*******************************************************************************
+New mods by jameso
+
 Vendor: Xilinx 
 Associated Filename: window_fn_top.cpp
 Purpose: Vivado HLS tutorial example 
