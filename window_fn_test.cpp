@@ -89,6 +89,7 @@ int main(void)
          cout << "  Expected: " << sw_result[i];
          cout << "  Got: " << hw_result[i];
          cout << "  Delta: " << abs_err << endl;
+         cout << "  JamesO and GitHub "  << endl;
          err_cnt++;
       }
    }
